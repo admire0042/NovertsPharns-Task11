@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Olusoji\\Desktop\\Codebits-Academy\\lab-tasks\\novertispharms\\NovertisPharms.csproj": {}
+    "C:\\Users\\Olusoji\\Desktop\\Codebits-Academy\\lab-tasks\\NovertisPharms\\NovertisPharms.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Olusoji\\Desktop\\Codebits-Academy\\lab-tasks\\novertispharms\\NovertisPharms.csproj": {
+    "C:\\Users\\Olusoji\\Desktop\\Codebits-Academy\\lab-tasks\\NovertisPharms\\NovertisPharms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Olusoji\\Desktop\\Codebits-Academy\\lab-tasks\\novertispharms\\NovertisPharms.csproj",
+        "projectUniqueName": "C:\\Users\\Olusoji\\Desktop\\Codebits-Academy\\lab-tasks\\NovertisPharms\\NovertisPharms.csproj",
         "projectName": "NovertisPharms",
-        "projectPath": "C:\\Users\\Olusoji\\Desktop\\Codebits-Academy\\lab-tasks\\novertispharms\\NovertisPharms.csproj",
+        "projectPath": "C:\\Users\\Olusoji\\Desktop\\Codebits-Academy\\lab-tasks\\NovertisPharms\\NovertisPharms.csproj",
         "packagesPath": "C:\\Users\\Olusoji\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Olusoji\\Desktop\\Codebits-Academy\\lab-tasks\\novertispharms\\obj\\",
+        "outputPath": "C:\\Users\\Olusoji\\Desktop\\Codebits-Academy\\lab-tasks\\NovertisPharms\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Olusoji\\AppData\\Roaming\\NuGet\\NuGet.Config"
