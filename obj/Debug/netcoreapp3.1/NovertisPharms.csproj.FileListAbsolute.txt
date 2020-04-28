@@ -1,0 +1,13 @@
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\obj\Debug\netcoreapp3.1\NovertisPharms.csprojAssemblyReference.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\obj\Debug\netcoreapp3.1\NovertisPharms.csproj.CoreCompileInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\obj\Debug\netcoreapp3.1\NovertisPharms.AssemblyInfoInputs.cache
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\obj\Debug\netcoreapp3.1\NovertisPharms.AssemblyInfo.cs
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\bin\Debug\netcoreapp3.1\NovertisPharms.exe
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\bin\Debug\netcoreapp3.1\NovertisPharms.deps.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\bin\Debug\netcoreapp3.1\NovertisPharms.runtimeconfig.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\bin\Debug\netcoreapp3.1\NovertisPharms.runtimeconfig.dev.json
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\bin\Debug\netcoreapp3.1\NovertisPharms.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\bin\Debug\netcoreapp3.1\NovertisPharms.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\obj\Debug\netcoreapp3.1\NovertisPharms.dll
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\obj\Debug\netcoreapp3.1\NovertisPharms.pdb
+C:\Users\Olusoji\Desktop\Codebits-Academy\lab-tasks\novertispharms\obj\Debug\netcoreapp3.1\NovertisPharms.genruntimeconfig.cache
