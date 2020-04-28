@@ -33,7 +33,7 @@ namespace NovertisPharms
         public int Day
         {
             get { return day; }
-            set
+            set set
             {
                 day = value;
             }
